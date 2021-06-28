@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/27757602/123585539-40f91a80-d798-11eb-83e0-26702d1c8e51.png)
+
 # AATL -  An Addendum to Tamrielic Lore
 
 AATL, or An Addendum to Tamrielic Lore (Sometimes shortened to ATL, not to be confused with Project Atlas) is an attempt to bring many of the missing artifacts from the other Elder Scrolls games to Morrowind.
@@ -11,3 +13,40 @@ ATL Data hopes to achieve two things: provide a baseline for ATL, and allow othe
 So should you use ATL? Not necessarily. There aren't many mods that use ATL Data right now (minus the ones on this data page). ATL Data will be updated as frequently as needed and then (hopefully) some with new content and mods that require it.
 
 Starting 0.2, releases will be focused on a specific artifact (barring hotfixes), either revamping, adding, or adding resources specifically for that mod. OAAB_Data.esm will be a requirement for most future mods, as AATL will be integrating many of its more generic resources with OAAB_Data.esm shortly.
+
+
+![image](https://user-images.githubusercontent.com/27757602/123585597-58380800-d798-11eb-86aa-b776be889d25.png)
+
+0.1b
+ - Initial Release
+
+0.1c
+ - Fixed khajiit monk's staff mesh accidentally including the mesh for Azurah's Guidance.
+ - Fixed Azurah's Guidance to use the ATL texture folder.
+ - Cleaned up the daedric urns, and made them more distinct from each-other.
+ - Added all important missing meshes to the CS and have them all set up and configured.
+
+0.1d
+ - Replaced the outdated Daedric Bookshelf mesh.
+ - Replaced the moon amulet and renamed it to "Khajiit Moon Amulet".
+ - Added a replacement to Chillrend, with mesh and texture made by Lorkhansheart. Original is now under the "Optional Files" section.
+ - Added Glass Shards to the esm, with a script to add a random amount of glass when harvested (0 - 3 pieces).
+
+0.1e
+ - Added a new rock shape. Intended for Chillrend mod, but can be used elsewhere.
+ - Added the Skull of Corruption artifact. 
+ - New mod for Chillrend, Targe of the Blooded, and the Hammer of Gharen.
+ - Updated Azurah's Guidance and Blade of Woe mods. All AATL Mini Mods are now part of the AATL_MiniMods archive. Note, all plugins should be safe to update the masters for. If for some reason updating the master would cause an issue, the addon will be updated to correct that error.
+
+
+![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
+
+Credit goes to the members of the AATL Team:
+ - PikachunoTM
+ - Lorkhansheart
+
+All AATL original assets (Assets in the ATL folders) are 100% free to modify/reupload, but please provide credit when used.
+
+Non AATL original assets (Assets in the ATLR/loose folders) require additional permissions, and may not be included without first contacting the original asset creator.
+
+If you would like to join the Team, or if you would like an asset you have made removed, please contact PikachunoTM via the Morrowind Modding discord.
