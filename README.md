@@ -37,6 +37,7 @@ Starting 0.2, releases will be focused on a specific artifact (barring hotfixes)
  - Added the Skull of Corruption artifact. 
  - New mod for Chillrend, Targe of the Blooded, and the Hammer of Gharen.
  - Updated Azurah's Guidance and Blade of Woe mods. All AATL Mini Mods are now part of the AATL_MiniMods archive. Note, all plugins should be safe to update the masters for. If for some reason updating the master would cause an issue, the addon will be updated to correct that error.
+ - Further balance changes for the Targe of the Blooded, Chillrend, and more.
 
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
