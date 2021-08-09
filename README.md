@@ -45,6 +45,7 @@ Starting 0.2, releases will be focused on a specific artifact (barring hotfixes)
 Credit goes to the members of the AATL Team:
  - PikachunoTM
  - Lorkhansheart
+ - iris-in-the-dark-world
 
 All AATL original assets (Assets in the ATL folders) are 100% free to modify/reupload, but please provide credit when used.
 
