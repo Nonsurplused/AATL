@@ -39,6 +39,15 @@ Starting 0.2, releases will be focused on a specific artifact (barring hotfixes)
  - Updated Azurah's Guidance and Blade of Woe mods. All AATL Mini Mods are now part of the AATL_MiniMods archive. Note, all plugins should be safe to update the masters for. If for some reason updating the master would cause an issue, the addon will be updated to correct that error.
  - Further balance changes for the Targe of the Blooded, Chillrend, and more.
 
+0.2a
+ - Removed bucklers from AATL_Data.esm.
+ - Rebalanced all artifacts.
+ - Separated esps as "An Addendum to Tamrielic Lore.esp" using OAAB_Data.esm (and TR_Data.esm) for additional items. This will be released separately as an alpha.
+ - Removed Misc Mods.
+ - Added missing elf skull in data to esp.
+ - Renamed several misc items.
+ - Fixed the file tree and renamed several items.
+
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
 
