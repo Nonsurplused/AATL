@@ -6,7 +6,7 @@ AATL, or An Addendum to Tamrielic Lore (or AATL) is an attempt to bring many of 
 
 But that doesn't mean just flooding Morrowind with Artifacts just because we can. That would be silly, and quickly get old. How many weapons does it take before you only use the strongest available? With that in mind, each new artifact brought forth in ATL intends to limit item spam by adding special effects to many of the new items that stems beyond their ability to sit there and look pretty (some still do of course... it wouldn't be fun if *every* item you got had those special effects).
 
-AATL hopes to bring more love to the artifacts of the Elder Scrolls. Most must be earned before they can be wielded, either through test of courage, cunning, or wisdom. But what is AATL Data and why should you care? 
+AATL hopes to bring more love to the artifacts of the Elder Scrolls. Most must be earned before they can be wielded, either through test of courage, cunning, or wisdom.
 
 AATL Data hopes to achieve two things: provide a baseline for AATL, and allow other modders to make mods with AATL assets without relying on AATL for whatever reason.
 
