@@ -4,7 +4,7 @@
 
    By PikachunoTM and the AATL Team
 
-            Version 0.2a
+            Version 0.2b
 |===================================|
 
 
@@ -68,6 +68,13 @@ Files can be freely modified/redistributed. Please provide credit for PikachunoT
  - Added missing elf skull in data to esp.
  - Renamed several misc items.
  - Fixed the file tree and renamed several items.
+
+0.2br1
+ - Added Akaviri Warblade.
+ - Renamed all IDs to AATL from ATL.
+ - Minor script edits.
+ - Corrected ID for Shal's Lucky Liquor.
+
 
 ===============
  Meet the Team
