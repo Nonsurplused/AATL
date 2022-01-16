@@ -56,8 +56,8 @@ Credit goes to the members of the AATL Team:
  - Lorkhansheart
  - iris-in-the-dark-world
 
-All AATL original assets (Assets in the ATL folders) are 100% free to modify/reupload, but please provide credit when used.
+All AATL original assets (Assets in the AATL folders) are 100% free to modify/reupload, but please provide credit when used.
 
-Non AATL original assets (Assets in the ATLR/loose folders) require additional permissions, and may not be included without first contacting the original asset creator.
+Non AATL original assets (Assets in the AATLR/loose folders) require additional permissions, and may not be included without first contacting the original asset creator.
 
 If you would like to join the Team, or if you would like an asset you have made removed, please contact PikachunoTM via the Morrowind Modding discord.
