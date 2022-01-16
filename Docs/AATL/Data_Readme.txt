@@ -4,7 +4,7 @@
 
    By PikachunoTM and the AATL Team
 
-            Version 0.1e
+            Version 0.2a
 |===================================|
 
 
@@ -12,17 +12,16 @@
  What is AATL?
 ===============
 
-AATL, or An Addendum to Tamrielic Lore (Sometimes shortened to ATL, not to be confused with Project Atlas) is an attempt to bring many of the missing artifacts from the other Elder Scrolls games to Morrowind.
+AATL, or An Addendum to Tamrielic Lore (Sometimes shortened to AATL) is an attempt to bring many of the missing artifacts from the other Elder Scrolls games to Morrowind, and add new, lore-friendly artifacts as well to further flesh out some of the Morrowind experience.
 
-But that doesn't mean just flooding Morrowind with Artifacts just because we can. That would be silly, and quickly get old. How many weapons does it take before you only use the strongest available? With that in mind, each new artifact brought forth in ATL intends to limit item spam by adding special effects to many of the new items that stems beyond their ability to sit there and look pretty (some still do of course... it wouldn't be fun if *every* item you got had those special effects).
+But that doesn't mean just flooding Morrowind with Artifacts just because we can. That would be silly, and quickly get old. How many weapons does it take before you only use the strongest available? With that in mind, each new artifact brought forth in AATL intends to limit item spam by adding special effects to many of the new items that stems beyond their ability to sit there and look pretty (some still do of course... it wouldn't be fun if *every* item you got had those special effects).
 
-ATL hopes to bring more love to the artifacts of the Elder Scrolls. Most must be earned before they can be wielded, either through test of courage, cunning, or wisdom. But what is ATL Data and why should you care? 
+AATL hopes to bring more love to the artifacts of the Elder Scrolls. Most must be earned before they can be wielded, either through test of courage, cunning, or wisdom. But what is AATL Data and why should you care? 
 
-ATL Data hopes to achieve two things: provide a baseline for ATL, and allow other modders to make mods with ATL assets without relying on ATL for whatever reason.
+AATL Data hopes to achieve two things: provide a baseline for AATL, and allow other modders to make mods with AATL assets without relying on ATL for whatever reason.
 
-So should you use ATL? Not necessarily. There aren't many mods that use ATL Data right now (minus the ones on this data page). ATL Data will be updated as frequently as needed and then (hopefully) some with new content and mods that require it.
+So should you use ATL? Not necessarily. There aren't many mods that use AATL Data right now (minus the ones on this data page). AATL Data will be updated as frequently as needed and then (hopefully) some with new content and mods that require it.
 
-Starting 0.2, releases will be focused on a specific artifact (barring hotfixes), either revamping, adding, or adding resources specifically for that mod. OAAB_Data.esm will be a requirement for most future mods, as AATL will be integrating many of its more generic resources with OAAB_Data.esm shortly.
 
 
 =============
@@ -35,7 +34,6 @@ Files can be freely modified/redistributed. Please provide credit for PikachunoT
 ===========
  Changelog
 ===========
-
 0.1b
  - Initial Release
 
@@ -47,7 +45,7 @@ Files can be freely modified/redistributed. Please provide credit for PikachunoT
 
 0.1d
  - Replaced the outdated Daedric Bookshelf mesh.
- - Replaced the moon amulet and renamed it to "Khajiit Moon Amulet".
+ - Replaced the moon amulet mesh and renamed it to "Khajiit Moon Amulet".
  - Added a replacement to Chillrend, with mesh and texture made by Lorkhansheart. Original is now under the "Optional Files" section.
  - Added Glass Shards to the esm, with a script to add a random amount of glass when harvested (0 - 3 pieces).
 
@@ -58,11 +56,18 @@ Files can be freely modified/redistributed. Please provide credit for PikachunoT
  - Added the Skull of Corruption artifact.
  - New mod for Chillrend, Targe of the Blooded, Ring of Eidolon's Edge and the Hammer of Gharen.
  - Further balance for Artifact items.
- - Moved data to the AATL folder for better compatibility.
- - Fixed some inconsistent mesh/icon names.
+ - Moved data to AATL folders for 1better compatibility.
  - Fixed incorrect ground and icon mesh for the ebony heavy buckler.
  - Updated Azurah's Guidance and Blade of Woe mods. All AATL Mini Mods are now part of the AATL_MiniMods archive. Note, all plugins should be safe to update the masters for. If for some reason updating the master causes an issue, the addon will be updated soon to correct that error.
 
+0.2a
+ - Removed bucklers from AATL_Data.esm.
+ - Rebalanced all artifacts.
+ - Separated esps as "An Addendum to Tamrielic Lore.esp" using OAAB_Data.esm (and TR_Data.esm) for additional items. This will be released separately as an alpha.
+ - Removed Misc Mods.
+ - Added missing elf skull in data to esp.
+ - Renamed several misc items.
+ - Fixed the file tree and renamed several items.
 
 ===============
  Meet the Team
@@ -70,4 +75,3 @@ Files can be freely modified/redistributed. Please provide credit for PikachunoT
 
 PikachunoTM
 Lorkhansheart
-iris-in-the-dark
