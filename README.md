@@ -8,11 +8,9 @@ But that doesn't mean just flooding Morrowind with Artifacts just because we can
 
 AATL hopes to bring more love to the artifacts of the Elder Scrolls. Most must be earned before they can be wielded, either through test of courage, cunning, or wisdom. But what is AATL Data and why should you care? 
 
-AATL Data hopes to achieve two things: provide a baseline for ATL, and allow other modders to make mods with ATL assets without relying on ATL for whatever reason.
+AATL Data hopes to achieve two things: provide a baseline for AATL, and allow other modders to make mods with AATL assets without relying on AATL for whatever reason.
 
-So should you use AATL? Not necessarily. There aren't many mods that use ATL Data right now (minus the ones on this data page). ATL Data will be updated as frequently as needed and then (hopefully) some with new content and mods that require it.
-
-Starting 1.0, releases will be focused on a specific artifact (barring hotfixes), either revamping, adding, or adding resources specifically for that mod. OAAB_Data.esm will be a requirement for future AATL releases.
+AATL Data will be updated as frequently as needed with new content.
 
 
 ![image](https://user-images.githubusercontent.com/27757602/123585597-58380800-d798-11eb-86aa-b776be889d25.png)
