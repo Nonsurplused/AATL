@@ -69,14 +69,14 @@ Files can be freely modified/redistributed. Please provide credit for PikachunoT
  - Renamed several misc items.
  - Fixed the file tree and renamed several items.
 
-0.2br2
+0.2b
  - Added Akaviri Warblade.
  - Renamed all IDs to AATL from ATL.
  - Minor script edits.
  - Corrected ID for Shal's Lucky Liquor.
- - Further Balance changes to items (Soul Sword).
+ - Further Balance changes to items.
  - Updated scripts for increased stability.
-
+ - Added further functionality to some items.
 
 ===============
  Meet the Team
