@@ -16,19 +16,18 @@ AATL, or An Addendum to Tamrielic Lore (Sometimes shortened to AATL) is an attem
 
 But that doesn't mean just flooding Morrowind with Artifacts just because we can. That would be silly, and quickly get old. How many weapons does it take before you only use the strongest available? With that in mind, each new artifact brought forth in AATL intends to limit item spam by adding special effects to many of the new items that stems beyond their ability to sit there and look pretty (some still do of course... it wouldn't be fun if *every* item you got had those special effects).
 
-AATL hopes to bring more love to the artifacts of the Elder Scrolls. Most must be earned before they can be wielded, either through test of courage, cunning, or wisdom. But what is AATL Data and why should you care? 
+AATL hopes to bring more love to the artifacts of the Elder Scrolls. Most must be earned before they can be wielded, either through test of courage, cunning, or wisdom.
 
-AATL Data hopes to achieve two things: provide a baseline for AATL, and allow other modders to make mods with AATL assets without relying on ATL for whatever reason.
+AATL_Data hopes to achieve two things: provide a baseline for AATL, and allow other modders to make mods with AATL assets without relying on ATL for whatever reason.
 
-So should you use ATL? Not necessarily. There aren't many mods that use AATL Data right now (minus the ones on this data page). AATL Data will be updated as frequently as needed and then (hopefully) some with new content and mods that require it.
-
+AATL Main hopes to implement everything in AATL_Data, while providing exciting new content to Morrowind.
 
 
 =============
  Permissions
 =============
 
-Files can be freely modified/redistributed. Please provide credit for PikachunoTM and the AATL Team for any assets taken, unless otherwise credited. Non AATL Team files may require additional permissions.
+Files can be freely modified/redistributed. Please provide credit for PikachunoTM and the AATL Team for any assets taken, unless otherwise credited. Non AATL Team files (files in the AATLR folders) may require additional permissions.
 
 
 ===========
@@ -83,6 +82,9 @@ Files can be freely modified/redistributed. Please provide credit for PikachunoT
  - Corrected issue in Soul Sword creature script that could cause crashing.
  - Added Statue of Meridia and AATLR folder.
  - Removed unused Staff of Chaos script.
+ - Added Visage of Mzund.
+ - Updated Bottle of Souls appearance.
+ - Fixed several broken icons.
 
 ===============
  Meet the Team
