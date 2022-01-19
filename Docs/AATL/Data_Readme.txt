@@ -4,7 +4,7 @@
 
    By PikachunoTM and the AATL Team
 
-            Version 0.2b
+            Version 0.2c
 |===================================|
 
 
@@ -77,6 +77,12 @@ Files can be freely modified/redistributed. Please provide credit for PikachunoT
  - Further Balance changes to items.
  - Updated scripts for increased stability.
  - Added further functionality to some items.
+
+0.2c
+ - Further script optimizations.
+ - Corrected issue in Soul Sword creature script that could cause crashing.
+ - Added Statue of Meridia and AATLR folder.
+ - Removed unused Staff of Chaos script.
 
 ===============
  Meet the Team
