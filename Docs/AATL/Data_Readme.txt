@@ -4,7 +4,7 @@
 
    By PikachunoTM and the AATL Team
 
-            Version 0.2c
+            Version 0.2d
 |===================================|
 
 
@@ -79,12 +79,19 @@ Files can be freely modified/redistributed. Please provide credit for PikachunoT
 
 0.2c
  - Further script optimizations.
- - Corrected issue in Soul Sword creature script that could cause crashing.
+ - Rebuilt Soul Sword and creature script for better balance.
  - Added Statue of Meridia and AATLR folder.
  - Removed unused Staff of Chaos script.
  - Added Visage of Mzund.
  - Updated Bottle of Souls appearance.
  - Fixed several broken icons.
+ - Fixed Akaviri Warblade reading as two-handed.
+ - Fixed Duskbringer meshes.
+ - Corrected missing icons in CS.
+
+0.2d
+ - Updated Visage of Mzund's mesh and texture.
+ - Added Sneaky Shoes.
 
 ===============
  Meet the Team
