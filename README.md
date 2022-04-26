@@ -68,8 +68,14 @@ AATL Data will be updated as frequently as needed with new content.
 
 0.2d
  - Updated Visage of Mzund's mesh and texture.
+ - Updated Flask of Lillandril's Mesh with a higher-poly model, vertex coloring, and fixed mesh vectors.
+ - Updated the Charm of Two Parts appearance to further remove its association with no longer used plans.
+ - Update rusty and broken shovel mesh.
+ - New texture, icon, and updated mesh for the frying pan.
+ - New texture, icon, and updated mesh for Ring of Eidolon's Edge.
+ - New texture for Dawnbreaker and its variants.
+ - New Duskbringer mesh and texture.
  - Added Sneaky Shoes.
-
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
 
