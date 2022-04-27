@@ -73,9 +73,13 @@ AATL Data will be updated as frequently as needed with new content.
  - Update rusty and broken shovel mesh.
  - New texture, icon, and updated mesh for the frying pan.
  - New texture, icon, and updated mesh for Ring of Eidolon's Edge.
- - New texture for Dawnbreaker and its variants.
- - New Duskbringer mesh and texture.
+ - New textures, icons, and fixed UVS for Dawnbreaker and its variants.
+ - New Duskbringer mesh icon and texture.
+ - Glow maps for Duskbringer and Dawnbreaker.
  - Added Sneaky Shoes.
+ - Added new Cooking Pot and Medium Cooking Pot.
+ - Further balancing.
+
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
 
