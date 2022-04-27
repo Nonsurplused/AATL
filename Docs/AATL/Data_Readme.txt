@@ -96,9 +96,13 @@ Files can be freely modified/redistributed. Please provide credit for PikachunoT
  - Update rusty and broken shovel mesh.
  - New texture, icon, and updated mesh for the frying pan.
  - New texture, icon, and updated mesh for Ring of Eidolon's Edge.
- - New texture for Dawnbreaker and its variants.
- - New Duskbringer mesh and texture.
+ - New textures, icons, and fixed UVS for Dawnbreaker and its variants.
+ - New Duskbringer mesh icon and texture.
+ - Glow maps for Duskbringer and Dawnbreaker.
  - Added Sneaky Shoes.
+ - Added new Cooking Pot and Medium Cooking Pot.
+ - Further balancing.
+ - Fixed some mesh size issues.
 
 ===============
  Meet the Team
