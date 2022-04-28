@@ -81,6 +81,10 @@ AATL Data will be updated as frequently as needed with new content.
  - Further balancing.
  - Fixed some mesh size issues.
 
+0.2e
+ - Added Daedric Coffer mesh.
+ - Updated Daedric chest meshes
+
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
 
