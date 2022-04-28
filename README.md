@@ -82,8 +82,10 @@ AATL Data will be updated as frequently as needed with new content.
  - Fixed some mesh size issues.
 
 0.2e
+ - Fixed some mesh wonkiness.
  - Added Daedric Coffer mesh.
- - Updated Daedric chest meshes
+ - Updated Dawnbreaker gem glow.
+ - Updated Daedric chest meshes.
 
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
