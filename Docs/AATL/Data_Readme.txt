@@ -1,18 +1,25 @@
-|===================================|
-    An Addendum to Tamrielic Lore
-              AATL_Data
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+||                               ||
+||     The Elder Scrolls III     ||
+||           Morrowind           ||
+||      ____    ____    _        ||
+||     | __ |  |_  _|  | |       ||
+||     ||__||    ||    | |       ||
+||     | __ |    ||    | |__     ||
+||     ||  ||    ||    |____|    ||
+||                               ||
+|| An Addendum to Tamrielic Lore ||
+||       By the AATL Team        ||
+||                               ||
+///////////////////////////////////
 
-   By PikachunoTM and the AATL Team
-
-            Version 0.2d
-|===================================|
 
 
 ===============
  What is AATL?
 ===============
 
-AATL, or An Addendum to Tamrielic Lore (Sometimes shortened to AATL) is an attempt to bring many of the missing artifacts from the other Elder Scrolls games to Morrowind, and add new, lore-friendly artifacts as well to further flesh out some of the Morrowind experience.
+AATL, or An Addendum to Tamrielic Lore, is an attempt to bring many of the missing artifacts from the other Elder Scrolls games to Morrowind, and add new, lore-friendly artifacts as well to further flesh out some of the Morrowind experience.
 
 But that doesn't mean just flooding Morrowind with Artifacts just because we can. That would be silly, and quickly get old. How many weapons does it take before you only use the strongest available? With that in mind, each new artifact brought forth in AATL intends to limit item spam by adding special effects to many of the new items that stems beyond their ability to sit there and look pretty (some still do of course... it wouldn't be fun if *every* item you got had those special effects).
 
@@ -103,6 +110,15 @@ Files can be freely modified/redistributed. Please provide credit for PikachunoT
  - Added new Cooking Pot and Medium Cooking Pot.
  - Further balancing.
  - Fixed some mesh size issues.
+
+0.2e
+ - Further fixed some wonky mesh sizes.
+ - Added Daedric Coffer Container.
+ - Adjusted Dawnbreaker's Glow map to reduce intense center gem piece.
+ - Updated Daedric Chest meshes.
+ - Added Debaser.
+ - Fixed Shal's Lucky Liquor's Double Drain Intelligence, and the fact it was very heavy compared to other drinks.
+ - Added Ashfall compatible pots and pans.
 
 ===============
  Meet the Team
