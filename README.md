@@ -81,6 +81,15 @@ AATL Data will be updated as frequently as needed with new content.
  - Further balancing.
  - Fixed some mesh size issues.
 
+0.2e
+ - Further fixed some wonky mesh sizes.
+ - Added Daedric Coffer Container.
+ - Adjusted Dawnbreaker's Glow map to reduce intense center gem piece.
+ - Updated Daedric Chest meshes.
+ - Added Debaser.
+ - Fixed Shal's Lucky Liquor's Double Drain Intelligence, and the fact it was very heavy compared to other drinks.
+ - Added Ashfall compatible pots and pans.
+
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
 
