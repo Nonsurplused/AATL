@@ -90,6 +90,11 @@ AATL Data will be updated as frequently as needed with new content.
  - Fixed Shal's Lucky Liquor's Double Drain Intelligence, and the fact it was very heavy compared to other drinks.
  - Added Ashfall compatible pots and pans.
 
+0.3
+ - Fixed all broken scripts, all have been tested and double-checked at this point to ensure they function as expected.
+ - Added Redoran Altar mesh.
+ - Updated Chillrend.
+
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
 
