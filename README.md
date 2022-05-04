@@ -94,6 +94,7 @@ AATL Data will be updated as frequently as needed with new content.
  - Fixed all broken scripts, all have been tested and double-checked at this point to ensure they function as expected.
  - Added Redoran Altar mesh.
  - Updated Chillrend.
+ - Further updated Skull of Corruption Textures
 
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
