@@ -97,6 +97,12 @@ AATL Data will be updated as frequently as needed with new content.
  - Further updated Skull of Corruption Textures.
  - Added Fearstruck.
 
+0.3b
+ - Added new Velothi tomb entrance alternative.
+ - Added Velothi wall and Fresco.
+ - Updated Daedric Urns.
+ - Updated Meridia Statue.
+
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
 
