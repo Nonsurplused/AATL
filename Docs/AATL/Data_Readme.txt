@@ -62,7 +62,7 @@ Files can be freely modified/redistributed. Please provide credit for PikachunoT
  - Added the Skull of Corruption artifact.
  - New mod for Chillrend, Targe of the Blooded, Ring of Eidolon's Edge and the Hammer of Gharen.
  - Further balance for Artifact items.
- - Moved data to AATL folders for 1better compatibility.
+ - Moved data to AATL folders for better compatibility.
  - Fixed incorrect ground and icon mesh for the ebony heavy buckler.
  - Updated Azurah's Guidance and Blade of Woe mods. All AATL Mini Mods are now part of the AATL_MiniMods archive. Note, all plugins should be safe to update the masters for. If for some reason updating the master causes an issue, the addon will be updated soon to correct that error.
 
@@ -119,6 +119,26 @@ Files can be freely modified/redistributed. Please provide credit for PikachunoT
  - Added Debaser.
  - Fixed Shal's Lucky Liquor's Double Drain Intelligence, and the fact it was very heavy compared to other drinks.
  - Added Ashfall compatible pots and pans.
+
+0.2f
+ - Updated Dawnbreaker and Duskbringer textures.
+ - Updated the Skull of Corruption texture.
+ - Further balances for various items.
+ - Script alterations and tweaks.
+
+0.3a
+ - Fixed all broken scripts, all have been tested and double-checked at this point to ensure they function as expected.
+ - Removed accidental duplicate script.
+ - Added Redoran Altar mesh.
+ - Updated Chillrend.
+ - Further updated Skull of Corruption textures.
+ - Added the shield Fearstruck.
+
+0.3b
+ - Added new Velothi tomb entrance alternative.
+ - Added Velothi wall and Fresco.
+ - Updated Daedric Urns.
+ - Updated Meridia Statue.
 
 ===============
  Meet the Team
