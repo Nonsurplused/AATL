@@ -113,6 +113,8 @@ AATL Data will be updated as frequently as needed with new content.
  - Updated Skull of Corruption Glow Texture.
  - Further balances tweaks.
  - Added Dwemer pots and pan.
+ - Updated pitchfork model.
+ - Fixed incorrect ID for Elven Skull.
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
 
