@@ -110,11 +110,21 @@ AATL Data will be updated as frequently as needed with new content.
  - Updated Meridia Statue.
 
 0.3c
- - Updated Skull of Corruption Glow Texture.
- - Further balances tweaks.
  - Added Dwemer pots and pan.
+ - Added new Akaviri 2h weapon.
+ - Updated Skull of Corruption glow map.
  - Updated pitchfork model.
+ - Added fishing spear.
+ - Further balances tweaks.
  - Fixed incorrect ID for Elven Skull.
+ - Added AATL_Integrations core .esm.
+
+0.3d
+ - Added enchantments to some items.
+ - Fixed 0 enchantment value for Bonemold Longsword.
+ - Fixed Targe of the Blooded Enchantment.
+ - Added unique mesh and icon for Bonemold Longsword.
+ - Added Elder Scroll with unique mesh, texture, icon, and book art.
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
 
