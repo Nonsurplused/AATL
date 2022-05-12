@@ -155,6 +155,7 @@ Files can be freely modified/redistributed. Please provide credit for PikachunoT
  - Fixed Targe of the Blooded Enchantment.
  - Added unique mesh and icon for Bonemold Longsword.
  - Added Elder Scroll with unique mesh, texture, icon, and book art.
+ - Updated Blade of the Redoran Mesh.
 
 
 ===============
