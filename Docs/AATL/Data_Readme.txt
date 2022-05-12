@@ -14,7 +14,6 @@
 ///////////////////////////////////
 
 
-
 ===============
  What is AATL?
 ===============
@@ -139,6 +138,24 @@ Files can be freely modified/redistributed. Please provide credit for PikachunoT
  - Added Velothi wall and Fresco.
  - Updated Daedric Urns.
  - Updated Meridia Statue.
+
+0.3c
+ - Added Dwemer pots and pan.
+ - Added new Akaviri 2h weapon.
+ - Updated Skull of Corruption glow map.
+ - Updated pitchfork model.
+ - Added fishing spear.
+ - Further balances tweaks.
+ - Fixed incorrect ID for Elven Skull.
+ - Added AATL_Integrations core .esm.
+
+0.3d
+ - Added enchantments to some items.
+ - Fixed 0 enchantment value for Bonemold Longsword.
+ - Fixed Targe of the Blooded Enchantment.
+ - Added unique mesh and icon for Bonemold Longsword.
+ - Added Elder Scroll with unique mesh, texture, icon, and book art.
+
 
 ===============
  Meet the Team
