@@ -125,6 +125,8 @@ AATL Data will be updated as frequently as needed with new content.
  - Fixed Targe of the Blooded Enchantment.
  - Added unique mesh and icon for Bonemold Longsword.
  - Added Elder Scroll with unique mesh, texture, icon, and book art.
+ - Updated Blade of the Redoran Mesh.
+
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
 
