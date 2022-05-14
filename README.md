@@ -132,7 +132,7 @@ AATL Data will be updated as frequently as needed with new content.
  - Script optimizations.
  - Fixed Daedric Coffer 0 weight capacity.
  - Tweaked UVs for Bonemold Longsword.
- - Added Bonemold Shortsword and Dagger.
+ - Added Bonemold Shortsword, spear and Dagger.
  - Fixed Visage of Mzund's special ability.
  - Further tweaked Blade of the Redoran
  - Added Bone Shortsword, a shortsword version of the Bone Dagger.
