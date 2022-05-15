@@ -157,6 +157,17 @@ Files can be freely modified/redistributed. Please provide credit for PikachunoT
  - Added Elder Scroll with unique mesh, texture, icon, and book art.
  - Updated Blade of the Redoran Mesh.
 
+0.3e
+ - Script tweaks and optimizations.
+ - Balance tweaks.
+ - Fixed Daedric Coffer 0 weight capacity.
+ - Tweaked UVs for Bonemold Longsword.
+ - Added Bonemold Shortsword, Spear, and Dagger.
+ - Fixed Visage of Mzund's special ability.
+ - Further tweaked Blade of the Redoran
+ - Added Bone Shortsword, a shortsword version of the Bone Dagger.
+ - Removed integrations module, will be reworked and part of a separate module.
+ - Fixed FOMOD.
 
 ===============
  Meet the Team
