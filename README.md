@@ -137,6 +137,14 @@ AATL Data will be updated as frequently as needed with new content.
  - Further tweaked Blade of the Redoran
  - Added Bone Shortsword, a shortsword version of the Bone Dagger.
 
+0.3f
+ - Fixed UVs and improper vcol for Daedric Coffer mesh.
+ - Fixed bookart not showing up for Elder Scroll.
+ - Added book "An Addendum to Tamrielic Lore".
+ - Balance tweaks.
+ - Added Ashlander Bug Rings.
+
+
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
 
 Credit goes to the members of the AATL Team:
