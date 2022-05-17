@@ -143,6 +143,10 @@ AATL Data will be updated as frequently as needed with new content.
  - Added book "An Addendum to Tamrielic Lore".
  - Balance tweaks.
  - Added Ashlander Bug Rings.
+ - Added Expensive Shoes variant.
+ - Added Test Cell module for ease of access for players to test the new content. (Players can access with the console by typing "coc AATL_TestCell" without the quotes.)
+ - Added Ceremonial Bone Dagger.
+ - Added Daedric Summoning Circle active and inactive variants.
 
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
