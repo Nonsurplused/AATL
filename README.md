@@ -148,6 +148,12 @@ AATL Data will be updated as frequently as needed with new content.
  - Added Ceremonial Bone Dagger.
  - Added Daedric Summoning Circle active and inactive variants.
 
+0.4a
+ - Readded select bucklers and updated their UVs.
+ - Added Cyrodiilic Iron Dagger.
+ - Updated Daedric bookshelf mesh.
+ - Added Open Daedric Urn, and Daedric Urn Lid.
+
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
 
