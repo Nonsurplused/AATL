@@ -17,14 +17,13 @@
 ===============
  What is AATL?
 ===============
-
 AATL, or An Addendum to Tamrielic Lore, is an attempt to bring many of the missing artifacts from the other Elder Scrolls games to Morrowind, and add new, lore-friendly artifacts as well to further flesh out some of the Morrowind experience.
 
 But that doesn't mean just flooding Morrowind with Artifacts just because we can. That would be silly, and quickly get old. How many weapons does it take before you only use the strongest available? With that in mind, each new artifact brought forth in AATL intends to limit item spam by adding special effects to many of the new items that stems beyond their ability to sit there and look pretty (some still do of course... it wouldn't be fun if *every* item you got had those special effects).
 
 AATL hopes to bring more love to the artifacts of the Elder Scrolls. Most must be earned before they can be wielded, either through test of courage, cunning, or wisdom.
 
-AATL_Data hopes to achieve two things: provide a baseline for AATL, and allow other modders to make mods with AATL assets without relying on ATL for whatever reason.
+AATL_Data hopes to achieve two things: provide a baseline for AATL, and allow other modders to make mods with AATL assets without relying on AATL Main for whatever reason.
 
 AATL Main hopes to implement everything in AATL_Data, while providing exciting new content to Morrowind.
 
@@ -32,7 +31,6 @@ AATL Main hopes to implement everything in AATL_Data, while providing exciting n
 =============
  Permissions
 =============
-
 Files can be freely modified/redistributed. Please provide credit for PikachunoTM and the AATL Team for any assets taken, unless otherwise credited. Non AATL Team files (files in the AATLR folders) may require additional permissions.
 
 
@@ -169,10 +167,78 @@ Files can be freely modified/redistributed. Please provide credit for PikachunoT
  - Removed integrations module, will be reworked and part of a separate module.
  - Fixed FOMOD.
 
+0.3f
+ - Fixed UVs and improper vcol for Daedric Coffer mesh.
+ - Fixed bookart not showing up for Elder Scroll.
+ - Added book "An Addendum to Tamrielic Lore".
+ - Balance tweaks.
+ - Added Ashlander Bug Rings.
+ - Added Expensive Shoes variant.
+ - Added Test Cell module for ease of access for players to test the new content. (Players can access with the console by typing "coc AATL_TestCell" without the quotes.)
+ - Added Ceremonial Bone Dagger.
+ - Added Daedric Summoning Circle active and inactive variants.
+ - Retextured mesh for Staff of Chaos.
+
+0.4a
+ - Readded select bucklers and updated their UVs.
+ - Added Cyrodiilic Iron Dagger.
+ - Updated Daedric bookshelf mesh.
+ - Added Open Daedric Urns, and Daedric Urn Lids.
+ - Added Glass Glowset Compatibility (courtesy of 3deadgods).
+ - Removed AATL_TestCell.esp (Added as part of AATL_Main).
+
+0.4b
+ - Tweaked open urn UVs.
+ - Tweaked Bench UVs and added new Daedric Bench variation.
+ - Added Ashlander Bug Necklace.
+ - Added Rangard's Axe.
+
+======================================
+ List of Currently Included Artifacts
+======================================
+Artifacts from Lore:
+ - Blade of Woe
+ - Chillrend
+ - Dawnbreaker
+ - Debaser
+ - Ebony Blade
+ - Fearstruck
+ - Flask of Lillandril
+ - Hammer of Gharen
+ - King Orgnum's Coffer
+ - Neb Crescen
+ - Ring of Eidolon's Edge
+ - Rueful Axe
+ - Skull of Corruption
+ - Soul Sword of Prince A'Tor
+ - Staff of Chaos
+ - Targe of the Blooded
+ - Visage of Mzund
+
+New Artifacts:
+ - Azurah's Guidance
+ - Bottle of Souls
+ - Blade of the Redoran
+ - Duskbringer
+ - Iszara's Blade
+ - Potion of Daedric Improvement
+ - Rangard's Axe
+ - Sneaky Shoes
+ - Spear of Madness
+
+
+
 ===============
  Meet the Team
 ===============
-
 PikachunoTM
 Lorkhansheart
 iris-in-the-dark-world
+
+
+==================
+ Non-Team Credits
+==================
+3deadgods for Glass Glowset Compatible Bucklers
+Remiros for Intelligent Textures, used as the base for some of the new textures.
+Merlord for Ashfall Compatible meshes.
