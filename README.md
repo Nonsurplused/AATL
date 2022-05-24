@@ -152,7 +152,15 @@ AATL Data will be updated as frequently as needed with new content.
  - Readded select bucklers and updated their UVs.
  - Added Cyrodiilic Iron Dagger.
  - Updated Daedric bookshelf mesh.
- - Added Open Daedric Urn, and Daedric Urn Lid.
+ - Added Open Daedric Urns, and Daedric Urn Lids.
+ - Added Glass Glowset Compatibility (courtesy of 3deadgods).
+ - Removed AATL_TestCell.esp (Added as part of AATL_Main).
+
+0.4b
+ - Tweaked open urn UVs.
+ - Tweaked Bench UVs and added new Daedric Bench variation.
+ - Added Ashlander Bug Necklace.
+ - Added Rangard's Axe.
 
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
