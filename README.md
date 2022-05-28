@@ -171,6 +171,13 @@ AATL Data will be updated as frequently as needed with new content.
  - Fixed Neb Crescent incorrect Enchantment ID.
  - Moved new classes from AATL_Main and added a playable classes module.
 
+0.4d
+ - Tweaked Glass chipped dagger.
+ - Fixed stretched portion of Cyrodiilic Iron Battle Axe.
+ - Tweaked UVs for Cyrodiilic Iron Waraxe.
+ - Added three new expensive amulet variants.
+
+
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
 
