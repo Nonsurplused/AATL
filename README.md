@@ -176,6 +176,8 @@ AATL Data will be updated as frequently as needed with new content.
  - Fixed stretched portion of Cyrodiilic Iron Battle Axe.
  - Tweaked UVs for Cyrodiilic Iron Waraxe.
  - Added three new expensive amulet variants.
+ - Tweaked Blade of the Redoran.
+ - Added Animated Daedric Sigil Stones.
 
 
 
