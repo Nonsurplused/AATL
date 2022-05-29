@@ -172,12 +172,19 @@ AATL Data will be updated as frequently as needed with new content.
  - Moved new classes from AATL_Main and added a playable classes module.
 
 0.4d
+ - Balance changes.
  - Tweaked Glass chipped dagger.
  - Fixed stretched portion of Cyrodiilic Iron Battle Axe.
  - Tweaked UVs for Cyrodiilic Iron Waraxe.
  - Added three new expensive amulet variants.
  - Tweaked Blade of the Redoran.
  - Added Animated Daedric Sigil Stones.
+ - Added Meridia statue with animated sigil stone.
+ - Updated bonemold weapons.
+ - Update Akaviri Dai-Katana.
+ - Fixed an incorrectly sized texture.
+ - Added Telescope variants, and made telescope lense transparent.
+ - Added Hay bales and pile.
 
 
 
