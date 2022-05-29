@@ -2,7 +2,7 @@
 
 # AATL -  An Addendum to Tamrielic Lore
 
-AATL, or An Addendum to Tamrielic Lore (or AATL) is an attempt to bring many of the missing artifacts from the other Elder Scrolls games to Morrowind.
+An Addendum to Tamrielic Lore (or AATL) is an attempt to bring many of the missing artifacts from the other Elder Scrolls games to Morrowind.
 
 But that doesn't mean just flooding Morrowind with Artifacts just because we can. That would be silly, and quickly get old. How many weapons does it take before you only use the strongest available? With that in mind, each new artifact brought forth in ATL intends to limit item spam by adding special effects to many of the new items that stems beyond their ability to sit there and look pretty (some still do of course... it wouldn't be fun if *every* item you got had those special effects).
 
