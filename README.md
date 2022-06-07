@@ -185,7 +185,20 @@ AATL Data will be updated as frequently as needed with new content.
  - Fixed an incorrectly sized texture.
  - Added Telescope variants, and made telescope lense transparent.
  - Added Hay bales and pile.
+ - Fixed Visible Collision for Open Daedric Urn.
 
+0.4e
+ - Tweaked Dawnbreaker and Duskbringer Particle Effects.
+ - Smoothed and UV Tweaked Pots and Pans meshes and Textures.
+ - New, unique Meshes and Texture for Dwemer Pots and Pan.
+ - Added Covered cooking pod variants and cooking lid.
+ - Added Rusty and Golden Pots and Pans.
+ - Further balance changes.
+ - Tweaked Dawnbreaker and Duskbringer textures.
+ - Additional class options.
+ - New Unique Spyglass variant, Wayfinder.
+ - Tweaked UVs for Spyglasses.
+ - Added the Eye of Argonia.
 
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
