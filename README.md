@@ -199,6 +199,12 @@ AATL Data will be updated as frequently as needed with new content.
  - New Unique Spyglass variant, Wayfinder.
  - Tweaked UVs for Spyglasses.
  - Added the Eye of Argonia.
+ - Added Histsight and Argonian Shaman Staff.
+ - Made weapon sizes more consistent.
+ - Fixed some normal issues for the Akaviri weapons. Also, made Akaviri blades slightly more distinct from each-other.
+ - New models and decals for the Round Metal and Round Runed Metal Plaques.
+ - Updated Ashfall Compatibility.
+ - Updated Hay texturing and added collision.
 
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
