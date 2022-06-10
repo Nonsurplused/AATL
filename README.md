@@ -205,6 +205,7 @@ AATL Data will be updated as frequently as needed with new content.
  - New models and decals for the Round Metal and Round Runed Metal Plaques.
  - Updated Ashfall Compatibility.
  - Updated Hay texturing and added collision.
+ - Added Support for three vampire clans - Volkihar, Whet-Fang, and Cyrodiil Order Vampyrum.
 
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
