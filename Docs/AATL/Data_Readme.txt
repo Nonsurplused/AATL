@@ -193,6 +193,52 @@ Files can be freely modified/redistributed. Please provide credit for PikachunoT
  - Added Ashlander Bug Necklace.
  - Added Rangard's Axe.
 
+0.4c
+ - Fixed Cyrodiil Iron Dagger mesh size.
+ - Added Cyrodiilic Iron Shortsword, Longsword, waraxe, axe, and Spear.
+ - Daedric Urn UV and sizing fixes.
+ - Fixed some wonky texture compression.
+ - Reduced some texture sizes and tweaked some textures for better overall consistency.
+ - Fixed Neb Crescent incorrect Enchantment ID.
+ - Moved new classes from AATL_Main and added a playable classes module.
+
+0.4d
+ - Balance changes.
+ - Tweaked Glass chipped dagger.
+ - Fixed stretched portion of Cyrodiilic Iron Battle Axe.
+ - Tweaked UVs for Cyrodiilic Iron Waraxe.
+ - Added three new expensive amulet variants.
+ - Tweaked Blade of the Redoran.
+ - Added Animated Daedric Sigil Stones.
+ - Added Meridia statue with animated sigil stone.
+ - Updated bonemold weapons.
+ - Update Akaviri Dai-Katana.
+ - Fixed an incorrectly sized texture.
+ - Added Telescope variants, and made telescope lenses transparent.
+ - Added Hay bales and pile.
+ - Fixed Visible Collision for Open Daedric Urn.
+
+0.4e
+ - Tweaked Dawnbreaker and Duskbringer Particle Effects.
+ - Smoothed and UV Tweaked Pots and Pans meshes and Textures.
+ - New, unique Meshes and Texture for Dwemer Pots and Pan.
+ - Added Covered cooking pod variants and cooking lid.
+ - Added Rusty and Golden Pots and Pans.
+ - Further balance changes.
+ - Tweaked Dawnbreaker and Duskbringer textures.
+ - Additional class options.
+ - New Unique Spyglass variant, Wayfinder.
+ - Tweaked UVs for Spyglasses.
+ - Added the Eye of Argonia.
+ - Added Histsight and Argonian Shaman Staff.
+ - Made weapon sizes more consistent.
+ - Fixed some normal issues for the Akaviri weapons. Also, made Akaviri blades slightly more distinct from each-other.
+ - New models and decals for the Round Metal and Round Runed Metal Plaques.
+ - Updated Ashfall Compatibility.
+ - Updated Hay texturing and added collision.
+ - Added support for 3 new vampire clans: Cyrodiil Order Vampyrum, Whet-Fang, and Volkihar.
+
+
 ======================================
  List of Currently Included Artifacts
 ======================================
@@ -202,6 +248,7 @@ Artifacts from Lore:
  - Dawnbreaker
  - Debaser
  - Ebony Blade
+ - Eye of Argonia
  - Fearstruck
  - Flask of Lillandril
  - Hammer of Gharen
@@ -221,11 +268,34 @@ New Artifacts:
  - Blade of the Redoran
  - Duskbringer
  - Iszara's Blade
+ - Histsight
  - Potion of Daedric Improvement
  - Rangard's Axe
  - Sneaky Shoes
  - Spear of Madness
+ - Wayfinder
 
+New Classes
+ - Abecean Pirate
+ - Bark Shaman
+ - Baron
+ - Caravan Trader
+ - College Initiate
+ - Grunt
+ - Harpsinger
+ - Imperial Archivist
+ - Mercenary
+ - Orator
+ - Orsimer Tribesman
+ - Redguard Mercenary
+ - Researcher
+ - Shadowscale
+ - Thug
+ - Vampire Hunter
+ - Vampire Matriarch
+ - Vampire Nightstalker
+ - Vampire Patriarch
+ - White Paw
 
 
 ===============
