@@ -206,7 +206,11 @@ AATL Data will be updated as frequently as needed with new content.
  - Updated Ashfall Compatibility.
  - Updated Hay texturing and added collision.
  - Added Support for three vampire clans - Volkihar, Whet-Fang, and Cyrodiil Order Vampyrum.
-
+ - Tweaked Rangard's Axe to be more proportional.
+ - Tweaked Spear of Madness tip mesh and UVs.
+ - New Mesh for Blessed Hammer, and set it up correctly in the esp.
+ - New, Rusty Repair Hammer. Worse than apprentice.
+ - Tweaked Cyrodiil Iron Spear.
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
 
