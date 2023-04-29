@@ -211,6 +211,13 @@ AATL Data will be updated as frequently as needed with new content.
  - New Mesh for Blessed Hammer, and set it up correctly in the esp.
  - New, Rusty Repair Hammer. Worse than apprentice.
  - Tweaked Cyrodiil Iron Spear.
+ 
+ 0.4f
+ - Tweaked textures and UVs for Cyrodiilic weapons.
+ - Tweaked Textures for Dawnbreaker.
+ - General item rebalance.
+ - Fixed several broken meshes and tweaked sizing for several items.
+
 
 ![image](https://user-images.githubusercontent.com/27757602/123585658-6ab24180-d798-11eb-9c13-a55bbfa48012.png)
 
