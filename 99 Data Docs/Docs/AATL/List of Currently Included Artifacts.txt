@@ -1,0 +1,68 @@
+======================================
+ List of Currently Included Artifacts
+======================================
+Artifacts from Lore:
+ - Blade of Woe
+ - Chillrend
+ - Dawnbreaker
+ - Debaser
+ - Ebony Blade
+ - Eye of Argonia
+ - Fearstruck
+ - Flask of Lillandril
+ - Hammer of Gharen
+ - King Orgnum's Coffer
+ - Neb Crescen
+ - Oghma Infinium
+ - Ring of Eidolon's Edge
+ - Rueful Axe
+ - Skull of Corruption
+ - Soul Sword of Prince A'Tor
+ - Staff of Chaos
+ - Targe of the Blooded
+ - Visage of Mzund
+
+New Artifacts:
+ - Azurah's Guidance
+ - Bottle of Souls
+ - Blade of the Dunerider
+ - Blade of the Redoran
+ - Blessed Hammer
+ - Crook of the Ancestors
+ - Crook of the Daedra
+ - Dagger of the Waverider
+ - Duskbringer
+ - Iszara's Blade
+ - Histsight
+ - Potion of Daedric Improvement
+ - Rangard's Axe
+ - Sneaky Shoes
+ - Spear of Madness
+ - Wayfinder
+
+New Classes
+ - Abecean Pirate
+ - Bark Shaman
+ - Baron
+ - Bounty Hunter
+ - Brawler
+ - Caravan Trader
+ - Chef
+ - College Initiate
+ - Cultist
+ - Grunt
+ - Harpsinger
+ - Imperial Archivist
+ - Mercenary
+ - Paladin of the Divines
+ - Orator
+ - Orsimer Tribesman
+ - Redguard Mercenary
+ - Researcher
+ - Shadowscale
+ - Thug
+ - Vampire Hunter
+ - Vampire Matriarch
+ - Vampire Nightstalker
+ - Vampire Patriarch
+ - White Paw
