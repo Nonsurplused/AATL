@@ -22,6 +22,11 @@ Fixes
 
 Added
  - Added Morak Bo'Gra companion + script and new face.
+ - Added new glass dagger type, an Assassin's Stinger, more powerful than a normal glass dagger but otherwise similar stats. Enchanted with a poison enchantment.
+
+Tweaked
+ - Tweaked several textures.
+
 
 0.7b2
 Fixes
